@@ -1,5 +1,5 @@
 
-packages=['vim','nano','git']
+packages=['nano','git']
 
 
 packages.each do |package_name|
